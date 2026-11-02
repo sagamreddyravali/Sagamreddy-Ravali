@@ -1,7 +1,5 @@
 # Sagamreddy-Ravali
 
-# Hi, I'm Ravali Sagamreddy
-
 ### Linux System Administrator | AWS Cloud & DevOps
 
 I'm a Linux System Administrator with experience in Linux administration, AWS cloud infrastructure, and automation. Currently expanding my skills in DevOps tools and cloud technologies.
